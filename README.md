@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hello, I'm Rianca Aril Pratama
 
-<!--
-**Newbie1nCode/Newbie1nCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Engineer | 🚀 Tech Enthusiast | 🧠 Problem Solver
 
-Here are some ideas to get you started:
+I am a passionate backend engineer who loves building scalable and efficient systems.
+Currently focused on developing robust APIs and exploring advanced technologies in backend, AI, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I am a Information System student at Universitas Indraprasta PGRI.
+
+---
+
+## 🧑‍💻 About Me
+
+* 🌱 Currently learning: **System Design, AI (Computer Vision)**
+* 💡 Strong interest in: Backend Development, Security, and Competitive Programming
+* ⚡ I enjoy solving complex problems and turning them into simple, clean solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Backend
+
+* Node.js
+* Express.js
+* TypeScript
+* Prisma ORM
+
+### 🗄️ Database
+
+* MySQL
+* Supabase
+
+### 💻 Programming Languages
+
+* C++
+* Python
+* JavaScript
+
+### ⚙️ Tools & Environment
+
+* Git & GitHub
+* Linux (Ubuntu)
+* VS Code
+
+---
+
+## 📈 Currently Learning
+
+* Data Structures & Algorithms (C++)
+* Computer Vision
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Newbie1nCode
+
+---
+
+⭐ From Rianca Aril Pratama
