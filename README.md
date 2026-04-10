@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🔧 Experienced with Laravel, Express.js, Node.js
 - 💡 Working with PHP & TypeScript
-- 🗄️ Using MongoDB, Supabase, Prisma
+- 🗄️ Using MongoDB, Supabase, Prisma, MySql
 - 🐧 3+ years using Ubuntu / Linux
 - ⚡ Passionate about building scalable backend systems
 
