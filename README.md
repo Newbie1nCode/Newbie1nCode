@@ -6,11 +6,11 @@
 ---
 
 ## 🚀 About Me
-- 🔧 Experienced with Laravel, Express.js, Node.js
-- 💡 Working with PHP & TypeScript
-- 🗄️ Using MongoDB, Supabase, Prisma, MySql
-- 🐧 3+ years using Ubuntu / Linux
-- ⚡ Passionate about building scalable backend systems
+* 🔧 Experienced with Laravel, Express.js, Node.js, Golang
+* 💡 Working with PHP & TypeScript
+* 🗄️ Using MongoDB, Supabase, Prisma, MySQL, SQLite
+* 🐧 3+ years using Ubuntu / Linux
+* ⚡ Passionate about building scalable backend systems & RESTful APIs
 
 ---
 ![GitHub Stats](https://ghstats.dev/api/card?username=Newbie1nCode&theme=tokyonight)
